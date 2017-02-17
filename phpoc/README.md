@@ -2,16 +2,16 @@
 Latest firmware revision information
 
 ## PHPoC Black
-* p4s_341_1.2.0.poc
+* p4s_341_1.3.0.poc
 
 ## PHPoC Blue
-* p4s_342_1.2.0.poc
+* p4s_342_1.3.0.poc
 
 ## PHPoC Shield for Arduino
-* p4s_348_1.2.0.poc
+* p4s_348_1.3.0.poc
 
 ## PHPoC WiFi Shield for Arduino
-* p4s_347_1.2.0.poc
+* p4s_347_1.3.0.poc
 
 ## References
 * [PHPoC Black](http://www.phpoc.com/support/manual/p4s-341_user_manual/)
