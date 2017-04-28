@@ -5,7 +5,7 @@ Latest firmware revision information
 * pes_2401_1.0.poc
 
 ## 2402 - Digital Input
-* pes_2402_1.0.poc
+* pes_2402_1.1.poc
 
 ## References
 * [Digital Output Smart Expansion](http://www.phpoc.com/support/manual/pes-2401_user_manual/)
